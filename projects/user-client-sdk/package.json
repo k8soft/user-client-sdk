@@ -1,0 +1,18 @@
+{
+  "name": "@k8soft/user-client-sdk",
+  "description": "OpenAPI client for @k8soft/user-client-sdk",
+  "author": "K8Soft",
+  "license": "MIT",
+  "keywords": [
+    "k8soft",
+    "user admin api"
+  ],
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
